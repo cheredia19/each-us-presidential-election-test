@@ -1,5 +1,5 @@
 ---
-title: Each US presidential election (1800-1896)
+title: Each US presidential election (1789-1796)
 description: 
 ---
 
