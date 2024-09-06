@@ -35,12 +35,6 @@ description:
 
 ### Electoral votes by candidate and state
 
-<FlatUiTable
-  data={{
-    url: '1792_elector_states.csv'
-  }}
- />
-
 ## 1796
 
 ### Popular and electoral votes by candidate
