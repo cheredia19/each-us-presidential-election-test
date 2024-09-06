@@ -33,6 +33,14 @@ description:
   yAxis="Electoral Vote Total"
 />
 
+### Electoral votes by candidate and state
+
+<FlatUiTable
+  data={{
+    url: '1792_elec_state.csv'
+  }}
+ />
+
 ## 1796
 
 ### Popular and electoral votes by candidate
