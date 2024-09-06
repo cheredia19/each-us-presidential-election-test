@@ -9,6 +9,6 @@ description:
 
 <FlatUiTable
   data={{
-    url: '1796_elec_pop.csv'
+    url: '1796_pop_vote.csv'
   }}
  />
