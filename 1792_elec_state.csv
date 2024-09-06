@@ -1,0 +1,17 @@
+State,Electoral Vote of Each State,"George Washington, of Virginia","John Adams, of Massachusetts","George Clinton, of New York","Thomas Jefferson, of Virginia","Aaron Burr, of New York"
+Connecticut,9,9,9,-,-,-
+Delaware,3,3,3,-,-,-
+Georgia,4,4,-,4,-,-
+Kentucky,4,4,-,-,4,-
+Maryland,8,8,8,-,-,-
+Massachusetts,16,16,16,-,-,-
+New Hampshire,6,6,6,-,-,-
+New Jersey,7,7,7,-,-,-
+New York,12,12,-,12,-,-
+North Carolina,12,12,-,12,-,-
+Pennsylvania,15,15,14,1,-,-
+Rhode Island,4,4,4,-,-,-
+South Carolina,8,8,7,-,-,1
+Vermont,3,3,3,-,-,-
+Virginia,21,21,-,21,-,-
+Totals,132,132,77,50,4,1
