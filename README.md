@@ -10,8 +10,8 @@ description:
     url: '1792_pop_vote.csv'
   }}
   title="Electoral votes by candidate"
-  xAxis="Electoral Vote Total"
-  yAxis="Candidate (Party Label)"
+  xAxis="Candidate (Party Label)"
+  yAxis="Electoral Vote Total"
 />
 
 ## 1796
