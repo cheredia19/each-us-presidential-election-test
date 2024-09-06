@@ -3,6 +3,17 @@ title: Each US presidential election (1800-1896)
 description: 
 ---
 
+## 1789
+
+<PlotlyBarChart
+  data={{
+    url: '1789_pop_vote.csv'
+  }}
+  title="Electoral votes by candidate"
+  xAxis="Candidate (Party Label)"
+  yAxis="Electoral Vote Total"
+/>
+
 ## 1792
 
 <PlotlyBarChart
