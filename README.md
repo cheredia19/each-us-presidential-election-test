@@ -5,10 +5,10 @@ description:
 
 ## 1796
 
-### Popular and electoral votes by candidate and state
+### Popular and electoral votes by candidate
 
 <FlatUiTable
   data={{
-    url: '1828_elec_pop.csv'
+    url: '1796_elec_pop.csv'
   }}
  />
