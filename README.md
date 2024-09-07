@@ -53,11 +53,7 @@ description:
 
 ### Electoral votes by candidate and state
 
-<FlatUiTable
-  data={{
-    url: '1796_elec_state.csv'
-  }}
- />
+
 
 **NOTES:<BR />
 (1) The following candidates also received electoral votes: George Clinton (7), John Jay (5), James Iredell (3), Samuel Johnston (2), George Washington (2), John Henry (2), Charles C. Pinckney (1).<BR />
