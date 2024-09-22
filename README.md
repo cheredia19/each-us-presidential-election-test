@@ -22,7 +22,13 @@ description:
   }}
  />
 
-## 1792
+## 1792 | George Washington's second unanimous choice
+
+The presidential election of 1792 was the second in the United States history and the first in which each of the original 13 states appointed electors (in addition to newly added Kentucky and Vermont). 
+
+It is also the only presidential election that was not held four years after the previous election.
+
+**George Washington** was, just like in 1789, the unanimous selection of all 132 presidential electors. Partisan politics had grown sharply during his first administration, but there was little interest among his ideological opponents in opposing his reelection.
 
 <PlotlyBarChart
   data={{
