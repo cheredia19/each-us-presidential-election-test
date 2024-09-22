@@ -3,7 +3,13 @@ title: Each US presidential election (1789-1796)
 description: 
 ---
 
-## 1789
+## 1789 | George Washington's first unanimous choice
+
+The first in history. The 1789 presidential election took place following the [ratification of the United States Constitution on June 21, the year before](https://constitutioncenter.org/blog/the-day-the-constitution-was-ratified). 
+
+**George Washington**, who essentially ran unopposed due to his immense popularity, was elected for the first of his two terms as President of the United States. Each of the 69 electors was expected to cast two ballots. All voted for Washington, making him the unanimous choice as the first president. John Adams became the first Vice President.
+
+Before this election, the country had no chief executive. Under the previous system (the [Articles of Confederation](https://www.archives.gov/milestone-documents/articles-of-confederation)) the national government was headed by the Confederation Congress, which had a ceremonial presiding officer and several executive departments, but no independent executive branch.
 
 <PlotlyBarChart
   data={{
