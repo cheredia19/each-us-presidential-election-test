@@ -85,3 +85,17 @@ Federalist John Adams earned 71 votes from the Electoral College and became the 
   }}
  />
 *1. The following candidates also received electoral votes: George Clinton (7), John Jay (5), James Iredell (3), Samuel Johnston (2), George Washington (2), John Henry (2), Charles C. Pinckney (1).<br />2. Electors for Connecticut also cast 5 votes for John Jay, of New York.<br />3. Electors for Georgia also cast 4 votes for George Clinton, of New York.<br />4. Electors for Maryland also cast 2 votes for John Henry, of Maryland.<br />5. Electors for Massachusetts also cast 2 votes for S. Johnston, of North Carolina.<br />6. Electors for North Carolina also cast 3 votes for James Iredell, of North Carolina, 1 vote for George Washington, of Virginia, and 1 vote for Charles C. Pinckney, of South Carolina.<br />7. Electors for Virginia also cast 3 votes for George Clinton, of New York, and 1 vote for George Washington, of Virginia.*
+
+<p /> 
+  
+##### Data sources
+
+- [Election results and voting information](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/) | Federal Election Commission of the United States of America
+- [Election Listing](https://www.presidency.ucsb.edu/statistics/elections) | The American Presidency Project of the 	University of California Santa Barbara
+
+##### You may be interested in
+
+- [Facts and figures of the U.S. presidential elections](https://datahub.io/@cheredia19/us-presidential-elections-facts-and-figures)
+- [Each U.S. presidential election (1800-1896)](https://datahub.io/@cheredia19/us-presidential-elections-1800s)
+- [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
+- [Each U.S. presidential election (2000-2020)](https://datahub.io/@cheredia19/us-presidential-elections-2000s)
