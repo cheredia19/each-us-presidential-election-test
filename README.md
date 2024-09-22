@@ -41,13 +41,13 @@ description:
   }}
  />
 
-## 1796
+## 1796 | John Adams (F) v. Thomas Jefferson (DR)
 
 ### Popular and electoral votes by candidate
 
-A worn-out George Washington refused to consider a third term. He supported his Vice President, **John Adams**.
+A worn-out George Washington refused to consider a third term. He supported his Vice President, **John Adams**. Thomas Pinckney, Samuel Adams, Oliver Ellsworth, and John Jay also participated in the Federalist ticket.
 
-Their opponents were former Secretary of State **Thomas Jefferson** and Senator Aaron Burr on the Democratic-Republican ticket. At this point, each man from any party ran alone, as the formal position of *running mate* had not yet been established.
+Their opponents were former Secretary of State **Thomas Jefferson** and Senator Aaron Burr on the Democratic-Republican side. At this point, each man from any party ran alone, as the formal position of *running mate* had not yet been established.
 
 The Constitution in 1796 required presidential electors to place the names of two individuals on their ballots; the candidate with the highest vote count, if a majority, became the president and the runner-up the vice president. 
 
