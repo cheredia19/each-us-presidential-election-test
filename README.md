@@ -45,6 +45,14 @@ description:
 
 ### Popular and electoral votes by candidate
 
+A worn-out George Washington refused to consider a third term. He supported his Vice President, **John Adams**.
+
+Their opponents were former Secretary of State **Thomas Jefferson** and Senator Aaron Burr on the Democratic-Republican ticket. At this point, each man from any party ran alone, as the formal position of *running mate* had not yet been established.
+
+The Constitution in 1796 required presidential electors to place the names of two individuals on their ballots; the candidate with the highest vote count, if a majority, became the president and the runner-up the vice president. 
+
+Federalist John Adams earned 71 votes from the Electoral College and became the second U.S. elected president in history. Jefferson, a Democratic-Republican, achieved 68 electoral votes and became Vice President. It was the only election that saw a President and Vice President from opposing tickets. 
+
 <FlatUiTable
   data={{
     url: '1796_pop_vote.csv'
