@@ -1,7 +1,15 @@
 ---
 title: Each US presidential election (1789-1796)
-description: 
+description: George Washington and John Adams became the first two elected presidents in the country's history
 ---
+
+The first three United States presidential elections, held from 1789 to 1796, were foundational in establishing the nation’s democratic framework. 
+
+George Washington's unanimous election in 1789 set a precedent for leadership amidst challenges like defining executive power and uniting a politically fragmented country. 
+
+The subsequent elections (1792 and 1796) introduced growing partisan divides, particularly between Federalists and Democratic-Republicans, highlighting tensions over foreign policy, economic policy, and the balance of federal and state authority. 
+
+These early contests not only shaped the presidency but also laid the groundwork for future electoral practices and political rivalries in the young republic.
 
 ## 1789 | George Washington's first unanimous choice
 
